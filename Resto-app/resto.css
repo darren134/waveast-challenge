@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+:root {
+ 			--b: #6058A8;
+ }
+
+* {
+			box-sizing: border-box;
+}
+
+body {
+			margin: 0;
+			padding: 0;
+			text-align: center;
+			background: var(--b);
+			color: #ffffff;
+}
+
+.header {
+			display: flex;
+			align-items: center;
+			flex-direction: column;
+			justify-content: center;
+}
+
+#btn {
+			border: 2px solid white;
+			padding: 15px;
+			background: none;
+			width: 120px;
+}
+
+#btn:active {
+			color: black;
+			background: #e5e5e5;
+}
+
+.menu {
+			/*background: #5f4797;*/
+			margin-top: 20px;
+			padding: 12px 0px;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+}
+
+.menu div {
+			margin-top: 25px;
+			padding: 12px;
+			/*background: #4e3686;*/
+}
+
+.menu div img {
+			width: 90%;
+			height: 90%;
+}
+
+h1, h3 {
+			font-family: 'PlayFair Display', "sans-serif";
+}
+
+p {
+			font-family: 'Roboto', "sans-serif";
+}
+
+.menu div p {
+			opacity: 0.4;
+			font-size: 5vw;
+			font-weight: 300;
+}
+
+.harga {
+			font-size: 26px;
+			font-weight: 300;
+			font-family: 'Roboto', "sans-serif";
+			opacity: 1;
+}
+
+footer {
+			background: #222222;
+			padding: 15px 0px;
+}
+
+/*#btn::before {
+			content:"";
+}
+
+#btn::after {
+			background: #252525;
+			content:"";
+			bottom: -50%;
+			left: -50%;
+			width: 200px;
+			height: 200px;
+}*/
+
+@media screen and (min-width: 720px) {
+			
+}
