@@ -1,2 +1,2 @@
 # waveast-challenge
-Challenge
+*Challenge*
