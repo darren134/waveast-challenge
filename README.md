@@ -1,5 +1,5 @@
 # waveast-challenge
-**Challenge 1: Resto app**
+**1.** Resto app
 **Designed** by [Nicepage](https://nicepage.com/website-templates/preview/our-top-menu-90907?device=desktop). **Coded** by me  
 **Demo**: [https://darren134.github.io/waveast-challenge/Resto-app](https://darren134.github.io/waveast-challenge/Resto-app)  
 **Tech-stack**:
